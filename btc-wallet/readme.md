@@ -7,5 +7,6 @@ References:
 
 Other:
 - [address generation code](https://javascript.plainenglish.io/generate-your-own-bitcoin-wallet-within-5-minutes-3c36176b47ee)
-- [check if valid btc address](https://live.blockcypher.com/btc/address/1E8fqmj4yuG22PPaD2GtQKpgYy3ScJc3kG/)
+- [check btc txn and address validity](https://live.blockcypher.com/btc/address/1E8fqmj4yuG22PPaD2GtQKpgYy3ScJc3kG/)
+- [send btc txn](https://github.com/ezesundayeze/sendbitcoin)
 - [btc stack exchange](https://bitcoin.stackexchange.com/)
